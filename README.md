@@ -3,7 +3,7 @@ A simple example about the motion of Unitree Go2 under Raisim
 
 # build
 cd ~/{your workspace}/src  
-download or copy this project to the space  
+download or copy the project BaseEnvironment to the space  
 cd ..  
 catkin build  
 
